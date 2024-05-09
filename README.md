@@ -15,5 +15,22 @@ Here are some ideas to get you started:
 
 # Grace T. Long Torales
 
+Data science master's student and environmental science professional with over 6 years of experience in research, analysis, and data modeling. Strong computer skills, Python and Java programming ability, expert Excel capabilities, and exposure to SQL. Strong collaborative, independent, and remote worker. Confident problem-solver. Exceptional organizational skills. Available to start June 2024.
+
+<table>
+  <tr>
+    <td>Pronouns 💗</td>    <td>She | Her | Hers</td>
+  </tr>
+  <tr>
+    <td>Languages 👄</td>    <td>Python | Java | Jupyter Notebook/Google Colab | SQL | R | HTML/CSS></td>
+  </tr>
+  <tr>
+    <td>Other Data Analytics Experience 📈</td>    <td>Tableau | Seaborn | Plotly | Plotly Dash | Pandas | Numpy | Excel</td>
+  </tr>
+  <tr>
+    <td>Interests 🌱</td>    <td>Sustainability | LLMs | Cybersecurity</td>
+  </tr>
+</table>
+
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracetexana&hide=contribs&theme=merko)
 ![Grace's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracetexana&layout=compact&theme=merko)
