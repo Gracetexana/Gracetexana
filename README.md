@@ -15,9 +15,25 @@ Here are some ideas to get you started:
 
 # Grace T. Long Torales
 
+My ReadMes are the easiest way to navigate my code!
+
 Data science master's student and environmental science professional with over 6 years of experience in research, analysis, and data modeling. Strong computer skills, Python and Java programming ability, expert Excel capabilities, and exposure to SQL. Strong collaborative, independent, and remote worker. Confident problem-solver. Exceptional organizational skills. Available to start June 2024.
 
-My ReadMes are the easiest way to navigate my code!
+<br>
+<br>
+
+***Rochester Institute of Technology*** | **January 2023 - August 2024**
+
+*Master of Science (M.S.)* | Data Science
+
+<br>
+
+***The University of Texas at Austin*** | **August 2014 - May 2018**
+
+*Bachelor of Science (B.S.)* | Environmental Science
+
+<br>
+<br>
 
 <table>
   <tr>
