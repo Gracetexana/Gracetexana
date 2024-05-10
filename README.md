@@ -40,7 +40,7 @@ Data science master's student and environmental science professional with over 6
     <td>Pronouns 💗</td>    <td>She | Her | Hers</td>
   </tr>
   <tr>
-    <td>Languages 👄</td>    <td>Python | Java | Jupyter Notebook/Google Colab | SQL | R | HTML/CSS></td>
+    <td>Languages 👄</td>    <td>Python | Java | Jupyter Notebook/Google Colab | SQL | R | HTML/CSS</td>
   </tr>
   <tr>
     <td>Other Data Analytics Experience 📈</td>    <td>Tableau | Seaborn | Plotly | Plotly Dash | Pandas | Numpy | Excel</td>
