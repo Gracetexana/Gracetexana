@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My ReadMes are the easiest way to navigate my code!
 
-Data science master's student and environmental science professional with over 6 years of experience in research, analysis, and data modeling. Strong computer skills, Python and Java programming ability, expert Excel capabilities, and exposure to SQL. Strong collaborative, independent, and remote worker. Confident problem-solver. Exceptional organizational skills. Available to start June 2024.
+Data science master's student and environmental science professional with over 6 years of experience in research, analysis, and data modeling. Strong computer skills, Python and Java programming ability, expert Excel capabilities, and exposure to SQL. Strong collaborative, independent, and remote worker. Confident problem-solver. Exceptional organizational skills. 
 
 <br>
 <br>
