@@ -46,7 +46,7 @@ Data science master's student and environmental science professional with over 6
     <td>Other Data Analytics Experience 📈</td>    <td>Tableau | Seaborn | Plotly | Plotly Dash | Pandas | Numpy | Excel</td>
   </tr>
   <tr>
-    <td>Interests 🌱</td>    <td>Sustainability | LLMs | Cybersecurity</td>
+    <td>Interests 🌱</td>    <td>Sustainability | AI/LLMs</td>
   </tr>
 </table>
 
