@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My ReadMes are the easiest way to navigate my code!
 
-Data science master's student and environmental science professional with over 6 years of experience in research, analysis, and data modeling. Strong computer skills, Python and Java programming ability, expert Excel capabilities, and exposure to SQL. Strong collaborative, independent, and remote worker. Confident problem-solver. Exceptional organizational skills. 
+Over 6 years of experience in research, analysis, and data modeling. Graduating with an MS in data science before the end of August 2024. Nearly 1 year of professional experience with machine learning/AI/LLM as a research fellow and prompt engineer; operating in a research capacity with generative and conversational AI to solve real-world problems that professionals in the power industry face; includes extensive prompt engineering and data embedding using LangChain, HuggingFace Transformers, and ChromaDB. Excellent Python skills through professional experiences with INSuRE+C program and DataAnnotation and master’s education. Excellent Java skills through master's education.
 
 <br>
 <br>
@@ -40,10 +40,10 @@ Data science master's student and environmental science professional with over 6
     <td>Pronouns 💗</td>    <td>She | Her | Hers</td>
   </tr>
   <tr>
-    <td>Languages 👄</td>    <td>Python | Java | Jupyter Notebook/Google Colab | SQL | R | HTML/CSS</td>
+    <td>Languages 👄</td>    <td>Python | Java | SQL | R | HTML/CSS</td>
   </tr>
   <tr>
-    <td>Other Data Analytics Experience 📈</td>    <td>Tableau | Seaborn | Plotly | Plotly Dash | Pandas | Numpy | Excel</td>
+    <td>Other Data Analytics Experience 📈</td>    <td>Tableau | Neo4j | MongoDB | Excel</td>
   </tr>
   <tr>
     <td>Interests 🌱</td>    <td>Sustainability | AI/LLMs</td>
